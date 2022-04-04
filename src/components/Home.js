@@ -13,13 +13,12 @@ const Home = () => {
           I'm Web Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px] '>
-          I'm a Web Developer, I'm a Web Developer constantly learning and
-          improving my skills. Currently, I'm focused on building Responsive Web
-          Application.
+          I'm a Web Developer, constantly learning and improving my skills.
+          Currently, I'm focused on building Responsive Web Application.
         </p>
         <div>
-          <button className='text-white border-2 px-6 py-2 flex item-center hover:bg-[#444445]'>
-            View Work
+          <button className='text-[#64ffda] border-2 px-6 py-2 flex item-center hover:bg-[#495670] hover:border-[#64ffda]'>
+            <a href='#works'>View Work</a>
           </button>
         </div>
       </div>

@@ -16,12 +16,9 @@ const About = () => {
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
-              eveniet amet hic cum dicta cumque ducimus eligendi dolorem
-              mollitia sed! Facilis odio quas exercitationem voluptates tempora,
-              ex maiores optio architecto rerum eligendi quia ullam, porro
-              possimus omnis aut dolorum vel inventore corrupti quis totam
-              dignissimos! Obcaecati praesentium blanditiis earum fugit!
+              Hello! My name is Pritam and I enjoy creating things that live on
+              the internet. My interest in web development, My main focus these
+              days is building accessible, inclusive products.
             </p>
           </div>
         </div>
